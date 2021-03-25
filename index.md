@@ -2,10 +2,10 @@ Ramu Mandava
 ============
 
 -------------------     ---------------------------------------
-* Email                       ramu.mandava@apssdc.in
-* EmpID                       2422
-* Phone                       XXXXXXXXX
-* LinkedIn                   [LinkedIn](https://in.linkedin.com/)
+* Email :                      ramu.mandava@apssdc.in
+* EmpID :                       2422
+* Phone :                      XXXXXXXXX
+* LinkedIn :                  [LinkedIn](https://in.linkedin.com/)
 -------------------     ---------------------------------------
 
 Education
